@@ -1,0 +1,13 @@
+body 
+{ 
+  color: white;
+      background-color:black;
+     }
+videoViewer 
+{ 
+  position: relative; padding-bottom: 50%; padding-top: 25px; height: 0; 
+}
+.videoViewer iframe 
+{ 
+  position: absolute; top: 0; left: 0; width: 100%; height: 100%; 
+}
